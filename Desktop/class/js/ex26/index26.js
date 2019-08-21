@@ -1,0 +1,12 @@
+var city = "Winnipeg";
+let hasNiceWeather = false;
+let population  = 800000;
+let isNice = undefined;
+let nullVar = null;
+let friendlyPeople = true;
+console.log("city: " + city + typeof city);
+console.log("Nice weather: " + hasNiceWeather + typeof hasNiceWeather);
+console.log("population: " + population + typeof population);
+console.log("is Nice city: " + isNice + typeof isNice);
+console.log("nullVar: " + nullVar + typeof nullVar);
+console.log("friendly people : " + friendlyPeople + typeof friendlyPeople);

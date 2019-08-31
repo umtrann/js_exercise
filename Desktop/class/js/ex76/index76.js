@@ -1,4 +1,7 @@
 let i=0;
-while(i<=10){
+
+do{
     console.log("number ", i);
+    i++;
 }
+while(i<=10)
